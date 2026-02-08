@@ -24,3 +24,14 @@ Step 5: Explore the visualization.
 
 
 ### Technology used: Python, Power BI, DAX
+
+
+## Work Samples
+![page 1 base_001](https://github.com/user-attachments/assets/aacb3ff1-221c-492a-8034-6e3d9315f21c)
+
+The first page of the dashboard (Overview) shows basic global level KPIs
+
+
+
+
+
